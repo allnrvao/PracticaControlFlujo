@@ -1,0 +1,10 @@
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\obj\Debug\Evaluacion.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\obj\Debug\Evaluacion.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\obj\Debug\Evaluacion.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\obj\Debug\Evaluacion.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\bin\Debug\Evaluacion.exe.config
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\bin\Debug\Evaluacion.exe
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\obj\Debug\Evaluacion.exe
+C:\Users\jpnic\OneDrive\Desktop\PracticaControlFlujo\Evaluacion\obj\Debug\Evaluacion.pdb
